@@ -95,6 +95,13 @@ Some people think risks of rewind attacks by crackers.
 But no worry. The recent Monacoin chain has enough hash power.
 Thanks miners for keeping work.
 
+0.20.4 change log
+=================
+
+### Vulnerability
+
+- #116 Add partially downloaded block target
+
 0.20.3 change log
 =================
 
